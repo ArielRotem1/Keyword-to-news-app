@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinksToNewsByWord</string>
+    <string name="word_to_search">word to search</string>
+    <string name="text_button_search">Search</string>
+    <string name="word_hint">keyword</string>
+    <string name="ynet_check_button">Ynet</string>
+    <string name="n12_check_button">N12</string>
+    <string name="contentDescriptionImageIcon">icon</string>
+    <string name="no_articles">No articles found.</string>
+</resources>
